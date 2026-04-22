@@ -1785,7 +1785,12 @@
   .sticky {
     position: absolute !important;
   }
-
+  .service-area {
+    padding: 70px 0;
+  }
+  .banner-btn a{
+    display: none;
+  }
   .lavewell_nav_manu {
     display: none;
   }
@@ -1868,9 +1873,11 @@
 
   /* wedding event */
   .wedding-event-area {
-    padding: 100px 0 100px;
+    padding: 50px 0;
   }
-
+  .section-title.text-center {
+    margin-bottom: 35px;
+}
   .wedding-shape {
     display: none;
   }
@@ -2075,10 +2082,15 @@
   .banner-img-shape2 {
     display: none;
   }
-
-  .banner-img-shape {
-    display: none;
+  .banner-img-shape img{
+    max-width: 220px;
   }
+  .banner-img-shape {
+    left: 70px;
+    top: 330px;
+  }
+
+
 
   .banner-sub-title h4 {
     font-size: 20px;
@@ -2535,4 +2547,16 @@
   .blog-details-thumb img {
     margin-bottom: 20px;
   }
+  .footer-area{
+    padding: 60px 0;
+  }
+  .gallery-area {
+    padding: 50px 15px 50px 15px;
+}
+.gallery-area .section-title.text-center {
+  margin-bottom: 40px;
+}
+.best-friends-area {
+  padding: 50px 0;
+}
 }
