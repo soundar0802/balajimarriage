@@ -4235,3 +4235,11 @@ p.details-desc,
     transform: rotate(360deg) scale(0.8);
   }
 }
+
+/* .mobile-menu-area{
+  display: none;
+} */
+
+.mean-container a.meanmenu-reveal{
+  pointer-events:none;
+}
