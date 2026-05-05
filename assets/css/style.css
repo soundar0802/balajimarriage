@@ -1835,7 +1835,7 @@ p.blog-desc {
 }
 
 .footer-single-item2 {
-  text-align: left;
+  text-align: center;
   padding-top: 92px;
 }
 
@@ -1861,11 +1861,11 @@ p.blog-desc {
   font-weight: 400;
   color: #232323;
   margin-bottom: 15px;
-  padding-left: 85px;
+  padding-left: 0;
 }
 
 .footer-single-item2 .footer-title h1 {
-  padding-left: 60px;
+  padding-left: 0;
 }
 
 .footer-info p,
