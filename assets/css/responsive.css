@@ -2563,4 +2563,17 @@
   padding-top: 20px;
   text-align: center;
 }
+#headline{
+  font-size: 37px;
+}
+#countdown {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.cdiv {
+  width: 100%;
+}
 }

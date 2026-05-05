@@ -4243,3 +4243,17 @@ p.details-desc,
 .mean-container a.meanmenu-reveal{
   pointer-events:none;
 }
+
+    /* COUNTER */
+.countdownsec h1 {font-weight: normal;letter-spacing: .125rem;text-transform: uppercase;}
+.countdownsec li {display: inline-block;font-size: 1.5em;list-style-type: none;padding: 1em;text-transform: uppercase;text-align: center;}
+.countdownsec div p{color: #be4951;}
+.countdownsec div p:nth-child(1) {font-size:68px;font-weight: 900;line-height: 1;margin-bottom: 10px;}
+.countdownsec div p:nth-child(2) {font-size: 30px;font-weight: 700;margin-bottom: 0;}
+.countdownsec .emoji {display: none;padding: 1rem;text-align: center;}
+.countdownsec .emoji span {font-size: 4rem;padding: 0 .5rem;}
+#headline{font-family: "Inter", sans-serif;font-weight: 700;color:#ffffff;text-align: center;font-size: 60px;margin-bottom: 40px;text-transform: capitalize;}
+#countdown{display: flex;justify-content: center;}
+.cdiv{width: 16%;text-align: center;    background: #eecea9;margin: 0 10px;padding: 22px 10px;border-radius: 12px;box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;}
+.countcontain{padding: 55px 30px;border-radius: 50px;}
+.countdownsec{background: url(../images/home-1/counter-bg.png);}
